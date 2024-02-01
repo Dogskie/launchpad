@@ -99,6 +99,26 @@ export const networks = {
       symbol: "WSCAI"
     }
   },
+   "7000": {
+    "name": "Zetachain Mainnet",
+    "rpc": "https://zetachain-evm.blockpi.network/v1/rpc/public",
+    "chainId": 7000  ,
+    "explorer": "https://zetachain.blockscout.com/",
+    "color": "#2A8958",
+    "multicall": "0xdfC6678FdAa9Ecf20fF7F98d890f173196B88790",
+    "storage": "",
+    "exstorage": "",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "Zetachain",
+      "symbol": "ZETA"
+    },
+    "wrappedToken": {
+      "address": "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
+      "name": "Wrapped Zeta",
+      "symbol": "WZETA"
+    }
+  },
 }
 
 export const chainRouter = {
