@@ -46,7 +46,7 @@ const Account = () => {
 
   return (
     <s.Container ai="center">
-      <s.TextTitle>Account</s.TextTitle>
+      <s.TextTitle>Account🐕</s.TextTitle>
       <s.SpacerMedium />
       <s.Container fd="row" jc="space-between">
         <s.Container flex={1}>
