@@ -6,8 +6,8 @@
 :root {
   --clr-neon: hsl(56, 100%, 52%, 1);
   --clr-bg: hsl(56, 100%, 40%);
-  --primary: #27C498;
-  --secondary: #004e38;
+  --primary: #FFFFFF;
+  --secondary: #FFFFFF;
   --warning: #ff9c0840;
   --info: #8abafd40;
   --success: #27ae5f54;
@@ -17,14 +17,14 @@
   --upper-card: #151516;
   --unfocus: #6F2232;
   --disable: #6D6E71;
-  --background: #151516;
+  --background: #000000;
   /* --background: #006FB9; */
   --blue: #1e90ff;
   --white: #ffffff;
   --text: #FFFFFF;
   --secondary-color: #989b9c;
   --text-secondary: #232227;
-  --button: #005987;
+  --button: #FFFFFF;
 
   --globalRadius: "20px";
 }
