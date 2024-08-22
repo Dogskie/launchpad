@@ -20,7 +20,7 @@ const Locker = (props) => {
 
   return (
     <s.Container ai="center">
-      <s.TextTitle>Locker</s.TextTitle>
+      <s.TextTitle>Locker🔐</s.TextTitle>
       <s.SpacerMedium />
       <s.Container fd="row">
         <s.Container flex={7}></s.Container>
