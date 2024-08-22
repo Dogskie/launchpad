@@ -99,6 +99,26 @@ export const networks = {
       symbol: "WSCAI"
     }
   },
+  1116: {
+    name: "Core Mainnet",
+    rpc: "https://core.drpc.org",
+    chainId: 1116,
+    explorer: "https://scan.coredao.org//",
+    color: "#ffa500",
+    storage: "",
+    multicall: "0xe765F18238389d0683004762Fa59e6A5dd0dc03e",
+    fromBlock: 16996724,
+    baseCurrency: {
+      decimals: 18,
+      name: "CORE",
+      symbol: "CORE"
+    },
+    wrappedToken: {
+      address: "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+      name: "Wrapped CORE",
+      symbol: "WCORE"
+    }
+  },
 }
 
 export const chainRouter = {
